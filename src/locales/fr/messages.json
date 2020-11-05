@@ -1,0 +1,52 @@
+{
+  "about.information": {
+    "translation": "<0>Plus d'info</0><1>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</1><2>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</2>",
+    "defaults": "<0>More information</0><1>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</1><2>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</2>",
+    "origin": [
+      [
+        "src/About.js",
+        7
+      ]
+    ]
+  },
+  "contact": {
+    "translation": "<0>contacte-nous</0><1>Vous pouvez me joindre par e-mail: <2>hello@example.com</2></1>",
+    "defaults": "<0>Contact Me</0><1>You can reach me via email: <2>hello@example.com</2></1>",
+    "origin": [
+      [
+        "src/Contact.js",
+        7
+      ]
+    ]
+  },
+  "navigation": {
+    "translation": "<0><1>Accueil</1></0><2><3>à propos</3></2><4><5>Contact</5></4>",
+    "defaults": "<0><1>Home</1></0><2><3>About</3></2><4><5>Contact</5></4>",
+    "origin": [
+      [
+        "src/App.js",
+        20
+      ]
+    ]
+  },
+  "navigation.title": {
+    "translation": "<0>Terrain de jeux</0>",
+    "defaults": "<0>Playground</0>",
+    "origin": [
+      [
+        "src/App.js",
+        47
+      ]
+    ]
+  },
+  "welcome.title": {
+    "translation": "<0>Bienvenueee</0><1> On va traduire!!</1>",
+    "defaults": "<0>Welcome to my playground</0><1> Let's translate </1>",
+    "origin": [
+      [
+        "src/Home.js",
+        8
+      ]
+    ]
+  }
+}
