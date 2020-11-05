@@ -1,23 +1,25 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
+.App h1 {
+	font-weight: 200;
+}
 
 .App-header {
-  background-color: #282c34;
-  min-height: 87vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	background-color: #282c34;
+	min-height: 87vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
 }
 
 .App-link {
-  color: #61dafb;
+	color: #61dafb;
 }
-
 
 .navigationBar a {
 	color: whitesmoke;
@@ -31,9 +33,24 @@
 
 .navigationBar a:hover {
 	color: white;
-	text-decoration: none;
+  text-decoration: none;
+  font-weight: 200;
 }
 
 .about {
 	max-width: 600px;
+}
+
+.bg-dark {
+	background-color: #282d33 !important;
+	border-radius: 35px;
+	margin: 10px;
+}
+
+select {
+  word-wrap: normal;
+  border-radius: 8px;
+  padding: 4px 10px 4px;
+  color: #ff62c7;
+  font-weight: 900;
 }

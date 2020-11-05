@@ -6,7 +6,6 @@ import Navigation from "./navigation/Navigation.js";
 import LanguageSelector from "./LanguageSelector";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-
 const App = ({ language, onLanguageChange }) => {
 	return (
 		<div className="App">
