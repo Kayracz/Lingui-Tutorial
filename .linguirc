@@ -2,7 +2,7 @@
    "localeDir": "src/locales/",
    "srcPathDirs": ["src/"],
    "format": "lingui",
-   "fallbackLocale": "es",
+   "sourceLocale": "en",
 }
 
 

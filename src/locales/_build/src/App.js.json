@@ -1,0 +1,11 @@
+{
+  "navigation.title": {
+    "defaults": "<0>Playground</0>",
+    "origin": [
+      [
+        "src/App.js",
+        12
+      ]
+    ]
+  }
+}

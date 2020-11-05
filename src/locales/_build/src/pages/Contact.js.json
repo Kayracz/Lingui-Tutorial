@@ -1,0 +1,11 @@
+{
+  "contact": {
+    "defaults": "<0>Contact Me</0><1>You can reach me via email: <2>hello@example.com</2></1>",
+    "origin": [
+      [
+        "src/pages/Contact.js",
+        7
+      ]
+    ]
+  }
+}

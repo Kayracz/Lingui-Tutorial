@@ -1,0 +1,11 @@
+{
+  "navigation": {
+    "defaults": "<0><1>Home</1></0><2><3>About</3></2><4><5>Contact</5></4>",
+    "origin": [
+      [
+        "src/navigation/Navigation.js",
+        9
+      ]
+    ]
+  }
+}

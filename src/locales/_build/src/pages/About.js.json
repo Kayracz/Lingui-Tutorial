@@ -1,0 +1,11 @@
+{
+  "about.information": {
+    "defaults": "<0>More information</0><1>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</1><2>Ipsum dolor dolorem consectetur est velit fugiat. Dolorem provident corporis fuga saepe distinctio ipsam? Et quos harum excepturi dolorum molestias?</2>",
+    "origin": [
+      [
+        "src/pages/About.js",
+        7
+      ]
+    ]
+  }
+}

@@ -3,9 +3,8 @@ import React from "react";
 const LanguageSelector = ({ language, onChangeLangage }) => {
 	const handleChange = (event) => {
 		event.preventDefault();
-
 		onChangeLangage(event.target.value);
-	};
+	}
 
   // EVENTS AND SELECTION OPTIONS
 	return (
