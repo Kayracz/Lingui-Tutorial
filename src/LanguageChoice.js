@@ -1,6 +1,6 @@
 import React from "react";
 
-const LanguageSelector = ({ language, onChangeLangage }) => {
+const LanguageChoice = ({ language, onChangeLangage }) => {
 	const handleChange = (event) => {
 		event.preventDefault();
 		onChangeLangage(event.target.value);
@@ -18,6 +18,6 @@ const LanguageSelector = ({ language, onChangeLangage }) => {
 	);
 };
 
-export default LanguageSelector;
+export default LanguageChoice;
 //#3 gets language and onchangelanguage characteristics into const
 // -handlechange and passes it to selection options with the value as language

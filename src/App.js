@@ -3,7 +3,7 @@ import "./styles/App.css";
 import { Trans } from "@lingui/macro";
 import Main from "./navigation/Main.js";
 import Navigation from "./navigation/Navigation.js";
-import LanguageSelector from "./LanguageSelector";
+import LanguageChoice from "./LanguageChoice";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = ({ language, onLanguageChange }) => {
@@ -15,7 +15,7 @@ const App = ({ language, onLanguageChange }) => {
 			<Navigation />
 			<header className="App-header">
 				<Main />
-				<LanguageSelector
+				<LanguageChoice
 					language={language}
 					onChangeLangage={onLanguageChange}
 				/>
